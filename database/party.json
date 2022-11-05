@@ -1,0 +1,49 @@
+﻿{
+    "data": [
+        {
+            "id": "1",
+            "partyid": "PDP",
+            "partyname": "PDP"
+        },
+        {
+            "id": "2",
+            "partyid": "DPP",
+            "partyname": "DPP"
+        },
+        {
+            "id": "3",
+            "partyid": "ACN",
+            "partyname": "ACN"
+        },
+        {
+            "id": "4",
+            "partyid": "PPA",
+            "partyname": "PPA"
+        },
+        {
+            "id": "5",
+            "partyid": "CDC",
+            "partyname": "CDC"
+        },
+        {
+            "id": "6",
+            "partyid": "JP",
+            "partyname": "JP"
+        },
+        {
+            "id": "7",
+            "partyid": "ANPP",
+            "partyname": "ANPP"
+        },
+        {
+            "id": "8",
+            "partyid": "LABOUR",
+            "partyname": "LABOUR"
+        },
+        {
+            "id": "9",
+            "partyid": "CPP",
+            "partyname": "CPP"
+        }
+    ]
+}

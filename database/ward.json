@@ -1,0 +1,2634 @@
+﻿{
+    "data": [
+        {
+            "uniqueid": "1",
+            "ward_id": "2",
+            "ward_name": "Aba - Unor",
+            "lga_id": "2",
+            "ward_description": "Aba - Unor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "2",
+            "ward_id": "8",
+            "ward_name": "Ejeme",
+            "lga_id": "2",
+            "ward_description": "Ejeme",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "3",
+            "ward_id": "9",
+            "ward_name": "Isheagu - Ewulu",
+            "lga_id": "2",
+            "ward_description": "Isheagu - Ewulu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "4",
+            "ward_id": "7",
+            "ward_name": "Nsukwa",
+            "lga_id": "2",
+            "ward_description": "Nsukwa",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "5",
+            "ward_id": "2",
+            "ward_name": "Ogwashi - Uku I",
+            "lga_id": "2",
+            "ward_description": "Ogwashi - Uku I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "6",
+            "ward_id": "3",
+            "ward_name": "Ogwashi - Uku Ii",
+            "lga_id": "2",
+            "ward_description": "Ogwashi - Uku Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "7",
+            "ward_id": "1",
+            "ward_name": "Ogwashi - Uku Village",
+            "lga_id": "2",
+            "ward_description": "Ogwashi - Uku Village",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "8",
+            "ward_id": "4",
+            "ward_name": "Ubulu - Uku I",
+            "lga_id": "2",
+            "ward_description": "Ubulu - Uku I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "9",
+            "ward_id": "5",
+            "ward_name": "Ubulu - Uku Ii",
+            "lga_id": "2",
+            "ward_description": "Ubulu - Uku Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "10",
+            "ward_id": "6",
+            "ward_name": "Ubulu - Unor",
+            "lga_id": "2",
+            "ward_description": "Ubulu - Unor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "11",
+            "ward_id": "11",
+            "ward_name": "Ubulu Okiti",
+            "lga_id": "2",
+            "ward_description": "Ubulu Okiti",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "12",
+            "ward_id": "10",
+            "ward_name": "Ezi",
+            "lga_id": "1",
+            "ward_description": "Ezi",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "13",
+            "ward_id": "8",
+            "ward_name": "Idumuje - Unor",
+            "lga_id": "1",
+            "ward_description": "Idumuje - Unor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "14",
+            "ward_id": "5",
+            "ward_name": "Issele - Azagba",
+            "lga_id": "1",
+            "ward_description": "Issele - Azagba",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "15",
+            "ward_id": "6",
+            "ward_name": "Issele Uku I",
+            "lga_id": "1",
+            "ward_description": "Issele Uku I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "16",
+            "ward_id": "7",
+            "ward_name": "Issele Uku Ii",
+            "lga_id": "1",
+            "ward_description": "Issele Uku Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "17",
+            "ward_id": "1",
+            "ward_name": "Obior",
+            "lga_id": "1",
+            "ward_description": "Obior",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "18",
+            "ward_id": "3",
+            "ward_name": "Obomkpa",
+            "lga_id": "1",
+            "ward_description": "Obomkpa",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "19",
+            "ward_id": "4",
+            "ward_name": "Onicha - Olona",
+            "lga_id": "1",
+            "ward_description": "Onicha - Olona",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "20",
+            "ward_id": "2",
+            "ward_name": "Onicha Ugbo",
+            "lga_id": "1",
+            "ward_description": "Onicha Ugbo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "21",
+            "ward_id": "9",
+            "ward_name": "Ukwu - Nzu",
+            "lga_id": "1",
+            "ward_description": "Ukwu - Nzu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "22",
+            "ward_id": "0",
+            "ward_name": "Akugbene",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "23",
+            "ward_id": "0",
+            "ward_name": "Akugbene Ii",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "24",
+            "ward_id": "0",
+            "ward_name": "Akugbene Iii",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "25",
+            "ward_id": "0",
+            "ward_name": "Bomadi",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "26",
+            "ward_id": "0",
+            "ward_name": "Kolafiogbene / Ekametagbene",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "27",
+            "ward_id": "0",
+            "ward_name": "Kpakiama",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "28",
+            "ward_id": "0",
+            "ward_name": "Ogbeinama / Okoloba",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "29",
+            "ward_id": "0",
+            "ward_name": "Ogo - Eze",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "30",
+            "ward_id": "0",
+            "ward_name": "Ogriagene",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "31",
+            "ward_id": "0",
+            "ward_name": "Syama",
+            "lga_id": "31",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "32",
+            "ward_id": "0",
+            "ward_name": "Bolou - Ndoro",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "33",
+            "ward_id": "0",
+            "ward_name": "Ngbilebiri",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "34",
+            "ward_id": "0",
+            "ward_name": "Ngbilebiri Ii",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "35",
+            "ward_id": "0",
+            "ward_name": "Obotebe",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "36",
+            "ward_id": "0",
+            "ward_name": "Ogbolubiri",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "37",
+            "ward_id": "0",
+            "ward_name": "Ogulagha",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "38",
+            "ward_id": "0",
+            "ward_name": "Seimbiri",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "39",
+            "ward_id": "0",
+            "ward_name": "Tamigbe",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "40",
+            "ward_id": "0",
+            "ward_name": "Torugbene",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "41",
+            "ward_id": "0",
+            "ward_name": "Tuomo",
+            "lga_id": "32",
+            "ward_description": "Akugbene",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "42",
+            "ward_id": "1",
+            "ward_name": "Abraka I",
+            "lga_id": "5",
+            "ward_description": "Abraka I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "43",
+            "ward_id": "2",
+            "ward_name": "Abraka Ii",
+            "lga_id": "5",
+            "ward_description": "Abraka Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "44",
+            "ward_id": "3",
+            "ward_name": "Abraka Iii",
+            "lga_id": "5",
+            "ward_description": "Abraka Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "45",
+            "ward_id": "4",
+            "ward_name": "Agbon I",
+            "lga_id": "5",
+            "ward_description": "Agbon I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "46",
+            "ward_id": "5",
+            "ward_name": "Agbon Ii",
+            "lga_id": "5",
+            "ward_description": "Agbon Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "47",
+            "ward_id": "6",
+            "ward_name": "Agbon Iii",
+            "lga_id": "5",
+            "ward_description": "Agbon Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "48",
+            "ward_id": "7",
+            "ward_name": "Agbon Iv",
+            "lga_id": "5",
+            "ward_description": "Agbon Iv",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "49",
+            "ward_id": "8",
+            "ward_name": "Agbon V",
+            "lga_id": "5",
+            "ward_description": "Agbon V",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "50",
+            "ward_id": "9",
+            "ward_name": "Agbon Vi",
+            "lga_id": "5",
+            "ward_description": "Agbon Vi",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "51",
+            "ward_id": "10",
+            "ward_name": "Agbon Vii",
+            "lga_id": "5",
+            "ward_description": "Agbon Vii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "52",
+            "ward_id": "11",
+            "ward_name": "Agbon Viii",
+            "lga_id": "5",
+            "ward_description": "Agbon Viii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "53",
+            "ward_id": "3",
+            "ward_name": "Jesse I",
+            "lga_id": "6",
+            "ward_description": "Jesse I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "54",
+            "ward_id": "4",
+            "ward_name": "Jesse Ii",
+            "lga_id": "6",
+            "ward_description": "Jesse Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "55",
+            "ward_id": "5",
+            "ward_name": "Jesse Iii",
+            "lga_id": "6",
+            "ward_description": "Jesse Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "56",
+            "ward_id": "6",
+            "ward_name": "Jesse Iv",
+            "lga_id": "6",
+            "ward_description": "Jesse Iv",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "57",
+            "ward_id": "1",
+            "ward_name": "Mosogar I",
+            "lga_id": "6",
+            "ward_description": "Mosogar I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "58",
+            "ward_id": "2",
+            "ward_name": "Mosogar Ii",
+            "lga_id": "6",
+            "ward_description": "Mosogar Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "59",
+            "ward_id": "7",
+            "ward_name": "Oghara I",
+            "lga_id": "6",
+            "ward_description": "Oghara I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "60",
+            "ward_id": "8",
+            "ward_name": "Oghara Ii",
+            "lga_id": "6",
+            "ward_description": "Oghara Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "61",
+            "ward_id": "9",
+            "ward_name": "Oghara Iii",
+            "lga_id": "6",
+            "ward_description": "Oghara Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "62",
+            "ward_id": "10",
+            "ward_name": "Oghara Iv",
+            "lga_id": "6",
+            "ward_description": "Oghara Iv",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "63",
+            "ward_id": "11",
+            "ward_name": "Oghara V",
+            "lga_id": "6",
+            "ward_description": "Oghara V",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "64",
+            "ward_id": "10",
+            "ward_name": "Abavo I",
+            "lga_id": "8",
+            "ward_description": "Abavo I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "65",
+            "ward_id": "11",
+            "ward_name": "Abavo Ii",
+            "lga_id": "8",
+            "ward_description": "Abavo Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "66",
+            "ward_id": "12",
+            "ward_name": "Abavo Iii",
+            "lga_id": "8",
+            "ward_description": "Abavo Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "67",
+            "ward_id": "1",
+            "ward_name": "Agbor Town I",
+            "lga_id": "8",
+            "ward_description": "Agbor Town I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "68",
+            "ward_id": "2",
+            "ward_name": "Agbor Town Ii",
+            "lga_id": "8",
+            "ward_description": "Agbor Town Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "69",
+            "ward_id": "7",
+            "ward_name": "Boji - Boji I",
+            "lga_id": "8",
+            "ward_description": "Boji - Boji I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "70",
+            "ward_id": "8",
+            "ward_name": "Boji - Boji Ii",
+            "lga_id": "8",
+            "ward_description": "Boji - Boji Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "71",
+            "ward_id": "9",
+            "ward_name": "Boji - Boji Iii",
+            "lga_id": "8",
+            "ward_description": "Boji - Boji Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "72",
+            "ward_id": "5",
+            "ward_name": "Ekuku - Agbor",
+            "lga_id": "8",
+            "ward_description": "Ekuku - Agbor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "73",
+            "ward_id": "4",
+            "ward_name": "Ihiuiyase I",
+            "lga_id": "8",
+            "ward_description": "Ihiuiyase I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "74",
+            "ward_id": "6",
+            "ward_name": "Ihuiyase Ii",
+            "lga_id": "8",
+            "ward_description": "Ihuiyase Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "75",
+            "ward_id": "3",
+            "ward_name": "Ihuozomor ( Ozanogogo Alisimie )",
+            "lga_id": "8",
+            "ward_description": "Ihuozomor ( Ozanogogo Alisimie )",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "76",
+            "ward_id": "7",
+            "ward_name": "Akumazi",
+            "lga_id": "7",
+            "ward_description": "Akumazi",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "77",
+            "ward_id": "10",
+            "ward_name": "Idumuesah",
+            "lga_id": "7",
+            "ward_description": "Idumuesah",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "78",
+            "ward_id": "8",
+            "ward_name": "Igbodo",
+            "lga_id": "7",
+            "ward_description": "Igbodo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "79",
+            "ward_id": "12",
+            "ward_name": "Mbiri",
+            "lga_id": "7",
+            "ward_description": "Mbiri",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "80",
+            "ward_id": "14",
+            "ward_name": "Otolokpo",
+            "lga_id": "7",
+            "ward_description": "Otolokpo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "81",
+            "ward_id": "5",
+            "ward_name": "Owa V",
+            "lga_id": "7",
+            "ward_description": "Owa V",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "82",
+            "ward_id": "6",
+            "ward_name": "Owa Vi",
+            "lga_id": "7",
+            "ward_description": "Owa Vi",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "83",
+            "ward_id": "1",
+            "ward_name": "Owa I",
+            "lga_id": "7",
+            "ward_description": "Owa I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "84",
+            "ward_id": "2",
+            "ward_name": "Owa Ii",
+            "lga_id": "7",
+            "ward_description": "Owa Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "85",
+            "ward_id": "3",
+            "ward_name": "Owa Iii",
+            "lga_id": "7",
+            "ward_description": "Owa Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "86",
+            "ward_id": "4",
+            "ward_name": "Owa Iv",
+            "lga_id": "7",
+            "ward_description": "Owa Iv",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "87",
+            "ward_id": "11",
+            "ward_name": "Umunede",
+            "lga_id": "7",
+            "ward_description": "Umunede",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "88",
+            "ward_id": "13",
+            "ward_name": "Ute - Ogbeje",
+            "lga_id": "7",
+            "ward_description": "Ute - Ogbeje",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "89",
+            "ward_id": "9",
+            "ward_name": "Ute - Okpu",
+            "lga_id": "7",
+            "ward_description": "Ute - Okpu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "90",
+            "ward_id": "3",
+            "ward_name": "Ellu",
+            "lga_id": "9",
+            "ward_description": "Ellu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "91",
+            "ward_id": "4",
+            "ward_name": "Emevor",
+            "lga_id": "9",
+            "ward_description": "Emevor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "92",
+            "ward_id": "5",
+            "ward_name": "Iluelogbo",
+            "lga_id": "9",
+            "ward_description": "Iluelogbo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "93",
+            "ward_id": "1",
+            "ward_name": "Iyede I",
+            "lga_id": "9",
+            "ward_description": "Iyede I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "94",
+            "ward_id": "2",
+            "ward_name": "Iyede Ii",
+            "lga_id": "9",
+            "ward_description": "Iyede Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "95",
+            "ward_id": "8",
+            "ward_name": "Okpe - Isoko",
+            "lga_id": "9",
+            "ward_description": "Okpe - Isoko",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "96",
+            "ward_id": "13",
+            "ward_name": "Otibio",
+            "lga_id": "9",
+            "ward_description": "Otibio",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "97",
+            "ward_id": "7",
+            "ward_name": "Ovrode",
+            "lga_id": "9",
+            "ward_description": "Ovrode",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "98",
+            "ward_id": "6",
+            "ward_name": "Owhe / Akiehwe",
+            "lga_id": "9",
+            "ward_description": "Owhe / Akiehwe",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "99",
+            "ward_id": "12",
+            "ward_name": "Oyede",
+            "lga_id": "9",
+            "ward_description": "Oyede",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "100",
+            "ward_id": "9",
+            "ward_name": "Ozoro I",
+            "lga_id": "9",
+            "ward_description": "Ozoro I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "101",
+            "ward_id": "10",
+            "ward_name": "Ozoro Ii",
+            "lga_id": "9",
+            "ward_description": "Ozoro Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "102",
+            "ward_id": "11",
+            "ward_name": "Ozoro Iii",
+            "lga_id": "9",
+            "ward_description": "Ozoro Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "103",
+            "ward_id": "3",
+            "ward_name": "Aviara",
+            "lga_id": "10",
+            "ward_description": "Aviara",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "104",
+            "ward_id": "5",
+            "ward_name": "Emede",
+            "lga_id": "10",
+            "ward_description": "Emede",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "105",
+            "ward_id": "9",
+            "ward_name": "Enhwe / Okpolo",
+            "lga_id": "10",
+            "ward_description": "Enhwe / Okpolo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "106",
+            "ward_id": "8",
+            "ward_name": "Erowa / Umeh",
+            "lga_id": "10",
+            "ward_description": "Erowa / Umeh",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "107",
+            "ward_id": "7",
+            "ward_name": "Igbide",
+            "lga_id": "10",
+            "ward_description": "Igbide",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "108",
+            "ward_id": "11",
+            "ward_name": "Irri Ii",
+            "lga_id": "10",
+            "ward_description": "Irri Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "109",
+            "ward_id": "10",
+            "ward_name": "Irri I",
+            "lga_id": "10",
+            "ward_description": "Irri I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "110",
+            "ward_id": "1",
+            "ward_name": "Oleh I",
+            "lga_id": "10",
+            "ward_description": "Oleh I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "111",
+            "ward_id": "2",
+            "ward_name": "Oleh Ii",
+            "lga_id": "10",
+            "ward_description": "Oleh Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "112",
+            "ward_id": "6",
+            "ward_name": "Olomoro",
+            "lga_id": "10",
+            "ward_description": "Olomoro",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "113",
+            "ward_id": "4",
+            "ward_name": "Uzere",
+            "lga_id": "10",
+            "ward_description": "Uzere",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "114",
+            "ward_id": "3",
+            "ward_name": "Abarra / Inyi / Onuaboh",
+            "lga_id": "11",
+            "ward_description": "Abarra / Inyi / Onuaboh",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "115",
+            "ward_id": "5",
+            "ward_name": "Aboh / Akarrai",
+            "lga_id": "11",
+            "ward_description": "Aboh / Akarrai",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "116",
+            "ward_id": "2",
+            "ward_name": "Afor / Obikwele",
+            "lga_id": "11",
+            "ward_description": "Afor / Obikwele",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "117",
+            "ward_id": "7",
+            "ward_name": "Ase",
+            "lga_id": "11",
+            "ward_description": "Ase",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "118",
+            "ward_id": "10",
+            "ward_name": "Ashaka",
+            "lga_id": "11",
+            "ward_description": "Ashaka",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "119",
+            "ward_id": "8",
+            "ward_name": "Ibedeni",
+            "lga_id": "11",
+            "ward_description": "Ibedeni",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "120",
+            "ward_id": "9",
+            "ward_name": "Ibrede / Igbuku / Onogbokor",
+            "lga_id": "11",
+            "ward_description": "Ibrede / Igbuku / Onogbokor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "121",
+            "ward_id": "4",
+            "ward_name": "Okpai / Utchi / Beneku",
+            "lga_id": "11",
+            "ward_description": "Okpai / Utchi / Beneku",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "122",
+            "ward_id": "6",
+            "ward_name": "Onyia / Adiai / Otuoku / Umuolu",
+            "lga_id": "11",
+            "ward_description": "Onyia / Adiai / Otuoku / Umuolu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "123",
+            "ward_id": "1",
+            "ward_name": "Ossissa",
+            "lga_id": "11",
+            "ward_description": "Ossissa",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "124",
+            "ward_id": "9",
+            "ward_name": "Abbi Ii",
+            "lga_id": "12",
+            "ward_description": "Abbi Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "125",
+            "ward_id": "8",
+            "ward_name": "Abbi I",
+            "lga_id": "12",
+            "ward_description": "Abbi I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "126",
+            "ward_id": "10",
+            "ward_name": "Emu",
+            "lga_id": "12",
+            "ward_description": "Emu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "127",
+            "ward_id": "6",
+            "ward_name": "Ogume I",
+            "lga_id": "12",
+            "ward_description": "Ogume I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "128",
+            "ward_id": "7",
+            "ward_name": "Ogume Ii",
+            "lga_id": "12",
+            "ward_description": "Ogume Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "129",
+            "ward_id": "5",
+            "ward_name": "Onicha - Ukwani",
+            "lga_id": "12",
+            "ward_description": "Onicha - Ukwani",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "130",
+            "ward_id": "1",
+            "ward_name": "Utagba Ogbe",
+            "lga_id": "12",
+            "ward_description": "Utagba Ogbe",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "131",
+            "ward_id": "2",
+            "ward_name": "Utagba Uno I",
+            "lga_id": "12",
+            "ward_description": "Utagba Uno I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "132",
+            "ward_id": "3",
+            "ward_name": "Utagba Uno Ii",
+            "lga_id": "12",
+            "ward_description": "Utagba Uno Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "133",
+            "ward_id": "4",
+            "ward_name": "Utagba Uno Iii",
+            "lga_id": "12",
+            "ward_description": "Utagba Uno Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "134",
+            "ward_id": "5",
+            "ward_name": "Aghalokpe",
+            "lga_id": "13",
+            "ward_description": "Aghalokpe",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "135",
+            "ward_id": "6",
+            "ward_name": "Aragba Town",
+            "lga_id": "13",
+            "ward_description": "Aragba Town",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "136",
+            "ward_id": "7",
+            "ward_name": "Mereje I",
+            "lga_id": "13",
+            "ward_description": "Mereje I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "137",
+            "ward_id": "8",
+            "ward_name": "Mereje Ii",
+            "lga_id": "13",
+            "ward_description": "Mereje Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "138",
+            "ward_id": "9",
+            "ward_name": "Mereje Iii",
+            "lga_id": "13",
+            "ward_description": "Mereje Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "139",
+            "ward_id": "3",
+            "ward_name": "Oha I",
+            "lga_id": "13",
+            "ward_description": "Oha I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "140",
+            "ward_id": "4",
+            "ward_name": "Oha Ii",
+            "lga_id": "13",
+            "ward_description": "Oha Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "141",
+            "ward_id": "1",
+            "ward_name": "Orerokpe",
+            "lga_id": "13",
+            "ward_description": "Orerokpe",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "142",
+            "ward_id": "2",
+            "ward_name": "Oviri - Okpe",
+            "lga_id": "13",
+            "ward_description": "Oviri - Okpe",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "143",
+            "ward_id": "10",
+            "ward_name": "Ughoton",
+            "lga_id": "13",
+            "ward_description": "Ughoton",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "144",
+            "ward_id": "1",
+            "ward_name": "Akwukwu",
+            "lga_id": "14",
+            "ward_description": "Akwukwu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "145",
+            "ward_id": "2",
+            "ward_name": "Ebu",
+            "lga_id": "14",
+            "ward_description": "Ebu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "146",
+            "ward_id": "4",
+            "ward_name": "Ibusa I",
+            "lga_id": "14",
+            "ward_description": "Ibusa I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "147",
+            "ward_id": "5",
+            "ward_name": "Ibusa Ii",
+            "lga_id": "14",
+            "ward_description": "Ibusa Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "148",
+            "ward_id": "6",
+            "ward_name": "Ibusa Iii",
+            "lga_id": "14",
+            "ward_description": "Ibusa Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "149",
+            "ward_id": "7",
+            "ward_name": "Ibusa Iv",
+            "lga_id": "14",
+            "ward_description": "Ibusa Iv",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "150",
+            "ward_id": "8",
+            "ward_name": "Ibusa V",
+            "lga_id": "14",
+            "ward_description": "Ibusa V",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "151",
+            "ward_id": "3",
+            "ward_name": "Illah",
+            "lga_id": "14",
+            "ward_description": "Illah",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "152",
+            "ward_id": "9",
+            "ward_name": "Okpanam",
+            "lga_id": "14",
+            "ward_description": "Okpanam",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "153",
+            "ward_id": "10",
+            "ward_name": "Ukala",
+            "lga_id": "14",
+            "ward_description": "Ukala",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "154",
+            "ward_id": "7",
+            "ward_name": "Agu",
+            "lga_id": "15",
+            "ward_description": "Agu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "155",
+            "ward_id": "2",
+            "ward_name": "Anala - Amakom",
+            "lga_id": "15",
+            "ward_description": "Anala - Amakom",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "156",
+            "ward_id": "10",
+            "ward_name": "Cable Point I",
+            "lga_id": "15",
+            "ward_description": "Cable Point I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "157",
+            "ward_id": "11",
+            "ward_name": "Cable Point Ii",
+            "lga_id": "15",
+            "ward_description": "Cable Point Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "158",
+            "ward_id": "1",
+            "ward_name": "Ogbele / Akpako",
+            "lga_id": "15",
+            "ward_description": "Ogbele / Akpako",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "159",
+            "ward_id": "3",
+            "ward_name": "Okwe",
+            "lga_id": "15",
+            "ward_description": "Okwe",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "160",
+            "ward_id": "7",
+            "ward_name": "Ugbomanta Quarters",
+            "lga_id": "15",
+            "ward_description": "Ugbomanta Quarters",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "161",
+            "ward_id": "5",
+            "ward_name": "Umuaji",
+            "lga_id": "15",
+            "ward_description": "Umuaji",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "162",
+            "ward_id": "4",
+            "ward_name": "Umuezei",
+            "lga_id": "15",
+            "ward_description": "Umuezei",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "163",
+            "ward_id": "6",
+            "ward_name": "Umuonaje",
+            "lga_id": "15",
+            "ward_description": "Umuonaje",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "164",
+            "ward_id": "9",
+            "ward_name": "West End",
+            "lga_id": "15",
+            "ward_description": "West End",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "165",
+            "ward_id": "1",
+            "ward_name": "Abari",
+            "lga_id": "16",
+            "ward_description": "Abari",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "166",
+            "ward_id": "4",
+            "ward_name": "Agoloma",
+            "lga_id": "16",
+            "ward_description": "Agoloma",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "167",
+            "ward_id": "8",
+            "ward_name": "Bolou - Angiama",
+            "lga_id": "16",
+            "ward_description": "Bolou - Angiama",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "168",
+            "ward_id": "10",
+            "ward_name": "Odorubu / Adobu / Bolou Apelebri",
+            "lga_id": "16",
+            "ward_description": "Odorubu / Adobu / Bolou Apelebri",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "169",
+            "ward_id": "5",
+            "ward_name": "Patani Ii",
+            "lga_id": "16",
+            "ward_description": "Patani Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "170",
+            "ward_id": "6",
+            "ward_name": "Patani Iii",
+            "lga_id": "16",
+            "ward_description": "Patani Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "171",
+            "ward_id": "2",
+            "ward_name": "Patani I",
+            "lga_id": "16",
+            "ward_description": "Patani I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "172",
+            "ward_id": "3",
+            "ward_name": "Taware / Kolowara Aven",
+            "lga_id": "16",
+            "ward_description": "Taware / Kolowara Aven",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "173",
+            "ward_id": "7",
+            "ward_name": "Toru - Angiama",
+            "lga_id": "16",
+            "ward_description": "Toru - Angiama",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "174",
+            "ward_id": "9",
+            "ward_name": "Uduophori",
+            "lga_id": "16",
+            "ward_description": "Uduophori",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "175",
+            "ward_id": "9",
+            "ward_name": "Amuokpe",
+            "lga_id": "17",
+            "ward_description": "Amuokpe",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "176",
+            "ward_id": "3",
+            "ward_name": "Sapele Urban Iii",
+            "lga_id": "17",
+            "ward_description": "Sapele Urban Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "177",
+            "ward_id": "4",
+            "ward_name": "Sapele Urban Iv",
+            "lga_id": "17",
+            "ward_description": "Sapele Urban Iv",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "178",
+            "ward_id": "5",
+            "ward_name": "Sapele Urban V",
+            "lga_id": "17",
+            "ward_description": "Sapele Urban V",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "179",
+            "ward_id": "6",
+            "ward_name": "Sapele Urban Vi",
+            "lga_id": "17",
+            "ward_description": "Sapele Urban Vi",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "180",
+            "ward_id": "7",
+            "ward_name": "Sapele Urban Vii",
+            "lga_id": "17",
+            "ward_description": "Sapele Urban Vii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "181",
+            "ward_id": "8",
+            "ward_name": "Sapele Urban Viii",
+            "lga_id": "17",
+            "ward_description": "Sapele Urban Viii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "182",
+            "ward_id": "1",
+            "ward_name": "Sapele Urban I",
+            "lga_id": "17",
+            "ward_description": "Sapele Urban I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "183",
+            "ward_id": "2",
+            "ward_name": "Sapele Urban Ii",
+            "lga_id": "17",
+            "ward_description": "Sapele Urban Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "184",
+            "ward_id": "10",
+            "ward_name": "Aladja",
+            "lga_id": "18",
+            "ward_description": "Aladja",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "185",
+            "ward_id": "6",
+            "ward_name": "Ekete",
+            "lga_id": "18",
+            "ward_description": "Ekete",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "186",
+            "ward_id": "5",
+            "ward_name": "Opete / Assagba / Edjophe",
+            "lga_id": "18",
+            "ward_description": "Opete / Assagba / Edjophe",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "187",
+            "ward_id": "9",
+            "ward_name": "Orhuwerun",
+            "lga_id": "18",
+            "ward_description": "Orhuwerun",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "188",
+            "ward_id": "7",
+            "ward_name": "Ovwian I",
+            "lga_id": "18",
+            "ward_description": "Ovwian I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "189",
+            "ward_id": "8",
+            "ward_name": "Ovwian Ii",
+            "lga_id": "18",
+            "ward_description": "Ovwian Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "190",
+            "ward_id": "1",
+            "ward_name": "Udu I",
+            "lga_id": "18",
+            "ward_description": "Udu I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "191",
+            "ward_id": "2",
+            "ward_name": "Udu Ii",
+            "lga_id": "18",
+            "ward_description": "Udu Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "192",
+            "ward_id": "3",
+            "ward_name": "Udu Iii",
+            "lga_id": "18",
+            "ward_description": "Udu Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "193",
+            "ward_id": "4",
+            "ward_name": "Udu Iv",
+            "lga_id": "18",
+            "ward_description": "Udu Iv",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "194",
+            "ward_id": "1",
+            "ward_name": "Agbarha",
+            "lga_id": "19",
+            "ward_description": "Agbarha",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "195",
+            "ward_id": "10",
+            "ward_name": "Agbarho I",
+            "lga_id": "19",
+            "ward_description": "Agbarho I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "196",
+            "ward_id": "11",
+            "ward_name": "Agbarho Ii",
+            "lga_id": "19",
+            "ward_description": "Agbarho Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "197",
+            "ward_id": "8",
+            "ward_name": "Evwreni",
+            "lga_id": "19",
+            "ward_description": "Evwreni",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "198",
+            "ward_id": "2",
+            "ward_name": "Ogor",
+            "lga_id": "19",
+            "ward_description": "Ogor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "199",
+            "ward_id": "3",
+            "ward_name": "Orogun I",
+            "lga_id": "19",
+            "ward_description": "Orogun I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "200",
+            "ward_id": "4",
+            "ward_name": "Orogun Ii",
+            "lga_id": "19",
+            "ward_description": "Orogun Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "201",
+            "ward_id": "5",
+            "ward_name": "Ughelli I",
+            "lga_id": "19",
+            "ward_description": "Ughelli I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "202",
+            "ward_id": "6",
+            "ward_name": "Ughelli Ii",
+            "lga_id": "19",
+            "ward_description": "Ughelli Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "203",
+            "ward_id": "7",
+            "ward_name": "Ughelli Iii",
+            "lga_id": "19",
+            "ward_description": "Ughelli Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "204",
+            "ward_id": "9",
+            "ward_name": "Uwheru",
+            "lga_id": "19",
+            "ward_description": "Uwheru",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "205",
+            "ward_id": "6",
+            "ward_name": "Effurun - Otor",
+            "lga_id": "20",
+            "ward_description": "Effurun - Otor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "206",
+            "ward_id": "7",
+            "ward_name": "Ekakpamre",
+            "lga_id": "20",
+            "ward_description": "Ekakpamre",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "207",
+            "ward_id": "8",
+            "ward_name": "Jeremi I",
+            "lga_id": "20",
+            "ward_description": "Jeremi I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "208",
+            "ward_id": "9",
+            "ward_name": "Jeremi Ii",
+            "lga_id": "20",
+            "ward_description": "Jeremi Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "209",
+            "ward_id": "10",
+            "ward_name": "Jeremi Iii",
+            "lga_id": "20",
+            "ward_description": "Jeremi Iii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "210",
+            "ward_id": "4",
+            "ward_name": "Olomu I",
+            "lga_id": "20",
+            "ward_description": "Olomu I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "211",
+            "ward_id": "5",
+            "ward_name": "Olomu Ii",
+            "lga_id": "20",
+            "ward_description": "Olomu Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "212",
+            "ward_id": "2",
+            "ward_name": "Akoku",
+            "lga_id": "21",
+            "ward_description": "Akoku",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "213",
+            "ward_id": "6",
+            "ward_name": "Amai",
+            "lga_id": "21",
+            "ward_description": "Amai",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "214",
+            "ward_id": "3",
+            "ward_name": "Ebedei",
+            "lga_id": "21",
+            "ward_description": "Ebedei",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "215",
+            "ward_id": "5",
+            "ward_name": "Eziokpor",
+            "lga_id": "21",
+            "ward_description": "Eziokpor",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "216",
+            "ward_id": "6",
+            "ward_name": "Ezionum",
+            "lga_id": "21",
+            "ward_description": "Ezionum",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "217",
+            "ward_id": "9",
+            "ward_name": "Obiaruku I",
+            "lga_id": "21",
+            "ward_description": "Obiaruku I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "218",
+            "ward_id": "10",
+            "ward_name": "Obiaruku Ii",
+            "lga_id": "21",
+            "ward_description": "Obiaruku Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "219",
+            "ward_id": "8",
+            "ward_name": "Umuebu",
+            "lga_id": "21",
+            "ward_description": "Umuebu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "220",
+            "ward_id": "4",
+            "ward_name": "Umukwata",
+            "lga_id": "21",
+            "ward_description": "Umukwata",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "221",
+            "ward_id": "1",
+            "ward_name": "Umutu",
+            "lga_id": "21",
+            "ward_description": "Umutu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "222",
+            "ward_id": "8",
+            "ward_name": "Army Barracks Area",
+            "lga_id": "22",
+            "ward_description": "Army Barracks Area",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "223",
+            "ward_id": "1",
+            "ward_name": "Effurun I",
+            "lga_id": "22",
+            "ward_description": "Effurun I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "224",
+            "ward_id": "2",
+            "ward_name": "Effurun Ii",
+            "lga_id": "22",
+            "ward_description": "Effurun Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "225",
+            "ward_id": "9",
+            "ward_name": "Ekpan I",
+            "lga_id": "22",
+            "ward_description": "Ekpan I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "226",
+            "ward_id": "12",
+            "ward_name": "Ekpan Ii",
+            "lga_id": "22",
+            "ward_description": "Ekpan Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "227",
+            "ward_id": "3",
+            "ward_name": "Enerhen I",
+            "lga_id": "22",
+            "ward_description": "Enerhen I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "228",
+            "ward_id": "4",
+            "ward_name": "Enerhen Ii",
+            "lga_id": "22",
+            "ward_description": "Enerhen Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "229",
+            "ward_id": "7",
+            "ward_name": "Ugbomro / Ugbolokposo",
+            "lga_id": "22",
+            "ward_description": "Ugbomro / Ugbolokposo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "230",
+            "ward_id": "5",
+            "ward_name": "Ugborikoko",
+            "lga_id": "22",
+            "ward_description": "Ugborikoko",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "231",
+            "ward_id": "6",
+            "ward_name": "Ugboroke",
+            "lga_id": "22",
+            "ward_description": "Ugboroke",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "232",
+            "ward_id": "0",
+            "ward_name": "Ebrohimi",
+            "lga_id": "33",
+            "ward_description": "Ebrohimi",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "233",
+            "ward_id": "0",
+            "ward_name": "Eghoro",
+            "lga_id": "33",
+            "ward_description": "Eghoro",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "234",
+            "ward_id": "0",
+            "ward_name": "Gbokoda",
+            "lga_id": "33",
+            "ward_description": "Gbokoda",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "235",
+            "ward_id": "0",
+            "ward_name": "Isekelewu ( Egbema Ii )",
+            "lga_id": "33",
+            "ward_description": "Isekelewu ( Egbema Ii )",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "236",
+            "ward_id": "0",
+            "ward_name": "Koko I",
+            "lga_id": "33",
+            "ward_description": "Koko I",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "237",
+            "ward_id": "0",
+            "ward_name": "Koko Ii",
+            "lga_id": "33",
+            "ward_description": "Koko Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "238",
+            "ward_id": "0",
+            "ward_name": "Ogbinbiri",
+            "lga_id": "33",
+            "ward_description": "Ogbinbiri",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "239",
+            "ward_id": "0",
+            "ward_name": "Ogbudugudu ( Egbema Iv )",
+            "lga_id": "33",
+            "ward_description": "Ogbudugudu ( Egbema Iv )",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "240",
+            "ward_id": "0",
+            "ward_name": "Ogheye",
+            "lga_id": "33",
+            "ward_description": "Ogheye",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "241",
+            "ward_id": "0",
+            "ward_name": "Opuama",
+            "lga_id": "33",
+            "ward_description": "Opuama",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "242",
+            "ward_id": "0",
+            "ward_name": "Bowen",
+            "lga_id": "34",
+            "ward_description": "Bowen",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "243",
+            "ward_id": "0",
+            "ward_name": "Edjeba",
+            "lga_id": "34",
+            "ward_description": "Edjeba",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "244",
+            "ward_id": "0",
+            "ward_name": "G.r.a",
+            "lga_id": "34",
+            "ward_description": "G.r.a",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "245",
+            "ward_id": "0",
+            "ward_name": "Igbudu",
+            "lga_id": "34",
+            "ward_description": "Igbudu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "246",
+            "ward_id": "0",
+            "ward_name": "Obodo / Omadino",
+            "lga_id": "34",
+            "ward_description": "Obodo / Omadino",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "247",
+            "ward_id": "0",
+            "ward_name": "Ode - Itsekiri",
+            "lga_id": "34",
+            "ward_description": "Ode - Itsekiri",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "248",
+            "ward_id": "0",
+            "ward_name": "Ogunu / Ekurede - Urhobo",
+            "lga_id": "34",
+            "ward_description": "Ogunu / Ekurede - Urhobo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "249",
+            "ward_id": "0",
+            "ward_name": "Okere",
+            "lga_id": "34",
+            "ward_description": "Okere",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "250",
+            "ward_id": "0",
+            "ward_name": "Okumagba",
+            "lga_id": "34",
+            "ward_description": "Okumagba",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "251",
+            "ward_id": "0",
+            "ward_name": "Okumagba Ii",
+            "lga_id": "34",
+            "ward_description": "Okumagba Ii",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "252",
+            "ward_id": "0",
+            "ward_name": "Pessu",
+            "lga_id": "34",
+            "ward_description": "Pessu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "253",
+            "ward_id": "0",
+            "ward_name": "Ugbuwangue / Ekurede - Itsekiri",
+            "lga_id": "34",
+            "ward_description": "Ugbuwangue / Ekurede - Itsekiri",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "254",
+            "ward_id": "0",
+            "ward_name": "Aja - Udaibo",
+            "lga_id": "35",
+            "ward_description": "Aja - Udaibo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "255",
+            "ward_id": "0",
+            "ward_name": "Akpikpa",
+            "lga_id": "35",
+            "ward_description": "Akpikpa",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "256",
+            "ward_id": "0",
+            "ward_name": "Gbaramatu",
+            "lga_id": "35",
+            "ward_description": "Gbaramatu",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "257",
+            "ward_id": "0",
+            "ward_name": "Isaba",
+            "lga_id": "35",
+            "ward_description": "Isaba",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "258",
+            "ward_id": "0",
+            "ward_name": "Madangho",
+            "lga_id": "35",
+            "ward_description": "Madangho",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "259",
+            "ward_id": "0",
+            "ward_name": "Ogbe - Ijoh",
+            "lga_id": "35",
+            "ward_description": "Ogbe - Ijoh",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "260",
+            "ward_id": "0",
+            "ward_name": "Ogidigben",
+            "lga_id": "35",
+            "ward_description": "Ogidigben",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "261",
+            "ward_id": "0",
+            "ward_name": "Oporoza",
+            "lga_id": "35",
+            "ward_description": "Oporoza",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "262",
+            "ward_id": "0",
+            "ward_name": "Orere",
+            "lga_id": "35",
+            "ward_description": "Orere",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        },
+        {
+            "uniqueid": "263",
+            "ward_id": "0",
+            "ward_name": "Ugborodo",
+            "lga_id": "35",
+            "ward_description": "Ugborodo",
+            "entered_by_user": "Bincom",
+            "date_entered": "0000-00-00 00:00:00",
+            "user_ip_address": "127.0.0.1"
+        }
+    ]
+}

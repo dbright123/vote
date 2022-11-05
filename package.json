@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.9.1",
     "next": "13.0.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sql": "^0.78.0"
   },
   "devDependencies": {
     "eslint": "8.26.0",
